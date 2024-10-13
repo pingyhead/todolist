@@ -35,3 +35,12 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import "@ionic/angular/css/palettes/dark.system.css";
+
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+ion-checkbox {
+  flex: 0 !important;
+}
